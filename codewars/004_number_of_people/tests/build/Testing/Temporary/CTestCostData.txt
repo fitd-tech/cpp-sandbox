@@ -1,0 +1,2 @@
+NumberOfPeople.CodewarsAssertions 1 0.00232108
+---

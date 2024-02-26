@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/arithmetic_progression/tests/build/arithmetic_progression_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/arithmetic_progression/tests/build/arithmetic_progression_test[1]_tests.cmake")
+else()
+  add_test(arithmetic_progression_test_NOT_BUILT arithmetic_progression_test_NOT_BUILT)
+endif()

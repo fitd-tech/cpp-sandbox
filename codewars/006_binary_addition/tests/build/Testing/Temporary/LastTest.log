@@ -1,0 +1,111 @@
+Start testing: Mar 17 18:16 CDT
+----------------------------------------------------------
+1/1 Testing: BinaryAddition.CodewarsAssertions
+1/1 Test: BinaryAddition.CodewarsAssertions
+Command: "/Users/anthonypelusocook/sandbox/cpp/codewars/binary_addition/tests/build/binary_addition_test" "--gtest_filter=BinaryAddition.CodewarsAssertions" "--gtest_also_run_disabled_tests"
+Directory: /Users/anthonypelusocook/sandbox/cpp/codewars/binary_addition/tests/build
+"BinaryAddition.CodewarsAssertions" start time: Mar 17 18:16 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/anthonypelusocook/sandbox/cpp/codewars/binary_addition/tests/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BinaryAddition.CodewarsAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BinaryAddition
+[ RUN      ] BinaryAddition.CodewarsAssertions
+full_binary_result: 0000000000000000000000000000000000000000000000000000000000000010
+string_length: 64
+empty_string + full_binary_result[string_length]: 
+
+empty_string + full_binary_result[string_length - 1]: 0
+empty_string + full_binary_result[string_length - 2]: 1
+empty_string + full_binary_result[string_length - 3]: 0
+empty_string + full_binary_result[string_length - 4]: 0
+empty_string + full_binary_result[string_length - 5]: 0
+empty_string + full_binary_result[string_length - 6]: 0
+full_binary_result.substr(0, string_length - 1): 000000000000000000000000000000000000000000000000000000000000001
+i: 62
+full_binary_result: 0000000000000000000000000000000000000000000000000000000000000001
+string_length: 64
+empty_string + full_binary_result[string_length]: 
+
+empty_string + full_binary_result[string_length - 1]: 1
+empty_string + full_binary_result[string_length - 2]: 0
+empty_string + full_binary_result[string_length - 3]: 0
+empty_string + full_binary_result[string_length - 4]: 0
+empty_string + full_binary_result[string_length - 5]: 0
+empty_string + full_binary_result[string_length - 6]: 0
+full_binary_result.substr(0, string_length - 1): 000000000000000000000000000000000000000000000000000000000000000
+i: 63
+full_binary_result: 0000000000000000000000000000000000000000000000000000000000000001
+string_length: 64
+empty_string + full_binary_result[string_length]: 
+
+empty_string + full_binary_result[string_length - 1]: 1
+empty_string + full_binary_result[string_length - 2]: 0
+empty_string + full_binary_result[string_length - 3]: 0
+empty_string + full_binary_result[string_length - 4]: 0
+empty_string + full_binary_result[string_length - 5]: 0
+empty_string + full_binary_result[string_length - 6]: 0
+full_binary_result.substr(0, string_length - 1): 000000000000000000000000000000000000000000000000000000000000000
+i: 63
+full_binary_result: 0000000000000000000000000000000000000000000000000000000000000100
+string_length: 64
+empty_string + full_binary_result[string_length]: 
+
+empty_string + full_binary_result[string_length - 1]: 0
+empty_string + full_binary_result[string_length - 2]: 0
+empty_string + full_binary_result[string_length - 3]: 1
+empty_string + full_binary_result[string_length - 4]: 0
+empty_string + full_binary_result[string_length - 5]: 0
+empty_string + full_binary_result[string_length - 6]: 0
+full_binary_result.substr(0, string_length - 1): 000000000000000000000000000000000000000000000000000000000000010
+i: 61
+full_binary_result: 0000000000000000000000000000000000000000000000000000000000111111
+string_length: 64
+empty_string + full_binary_result[string_length]: 
+
+empty_string + full_binary_result[string_length - 1]: 1
+empty_string + full_binary_result[string_length - 2]: 1
+empty_string + full_binary_result[string_length - 3]: 1
+empty_string + full_binary_result[string_length - 4]: 1
+empty_string + full_binary_result[string_length - 5]: 1
+empty_string + full_binary_result[string_length - 6]: 1
+full_binary_result.substr(0, string_length - 1): 000000000000000000000000000000000000000000000000000000000011111
+i: 58
+full_binary_result: 1010010100011000011100100001111000100001111110010110011010010000
+string_length: 64
+empty_string + full_binary_result[string_length]: 
+
+empty_string + full_binary_result[string_length - 1]: 0
+empty_string + full_binary_result[string_length - 2]: 0
+empty_string + full_binary_result[string_length - 3]: 0
+empty_string + full_binary_result[string_length - 4]: 0
+empty_string + full_binary_result[string_length - 5]: 1
+empty_string + full_binary_result[string_length - 6]: 0
+full_binary_result.substr(0, string_length - 1): 101001010001100001110010000111100010000111111001011001101001000
+i: 0
+/Users/anthonypelusocook/sandbox/cpp/codewars/binary_addition/tests/binary_addition_test.cpp:11: Failure
+Expected equality of these values:
+  BinaryAddition(1287329949086178712, 10609053940357564664)
+    Which is: "1010010100011000011100100001111000100001111110010110011010010000"
+  "0"
+[  FAILED  ] BinaryAddition.CodewarsAssertions (0 ms)
+[----------] 1 test from BinaryAddition (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] BinaryAddition.CodewarsAssertions
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"BinaryAddition.CodewarsAssertions" end time: Mar 17 18:16 CDT
+"BinaryAddition.CodewarsAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 17 18:16 CDT

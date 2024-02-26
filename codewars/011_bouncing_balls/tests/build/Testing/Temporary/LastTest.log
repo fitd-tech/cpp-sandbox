@@ -1,0 +1,30 @@
+Start testing: Mar 19 09:50 CDT
+----------------------------------------------------------
+1/1 Testing: BouncingBalls.CodewarsAssertions
+1/1 Test: BouncingBalls.CodewarsAssertions
+Command: "/Users/anthonypelusocook/sandbox/cpp/codewars/011_bouncing_balls/tests/build/bouncing_balls_test" "--gtest_filter=BouncingBalls.CodewarsAssertions" "--gtest_also_run_disabled_tests"
+Directory: /Users/anthonypelusocook/sandbox/cpp/codewars/011_bouncing_balls/tests/build
+"BouncingBalls.CodewarsAssertions" start time: Mar 19 09:50 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/anthonypelusocook/sandbox/cpp/codewars/011_bouncing_balls/tests/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BouncingBalls.CodewarsAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BouncingBalls
+[ RUN      ] BouncingBalls.CodewarsAssertions
+[       OK ] BouncingBalls.CodewarsAssertions (0 ms)
+[----------] 1 test from BouncingBalls (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BouncingBalls.CodewarsAssertions" end time: Mar 19 09:50 CDT
+"BouncingBalls.CodewarsAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 19 09:50 CDT

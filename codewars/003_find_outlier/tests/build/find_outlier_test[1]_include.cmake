@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/find_outlier/tests/build/find_outlier_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/find_outlier/tests/build/find_outlier_test[1]_tests.cmake")
+else()
+  add_test(find_outlier_test_NOT_BUILT find_outlier_test_NOT_BUILT)
+endif()

@@ -1,0 +1,30 @@
+Start testing: Mar 20 19:16 CDT
+----------------------------------------------------------
+1/1 Testing: TribonacciSequence.CodewarsAssertions
+1/1 Test: TribonacciSequence.CodewarsAssertions
+Command: "/Users/anthonypelusocook/sandbox/cpp/codewars/014_tribonacci_sequence/tests/build/tribonacci_sequence_test" "--gtest_filter=TribonacciSequence.CodewarsAssertions" "--gtest_also_run_disabled_tests"
+Directory: /Users/anthonypelusocook/sandbox/cpp/codewars/014_tribonacci_sequence/tests/build
+"TribonacciSequence.CodewarsAssertions" start time: Mar 20 19:16 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/anthonypelusocook/sandbox/cpp/codewars/014_tribonacci_sequence/tests/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TribonacciSequence.CodewarsAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TribonacciSequence
+[ RUN      ] TribonacciSequence.CodewarsAssertions
+[       OK ] TribonacciSequence.CodewarsAssertions (0 ms)
+[----------] 1 test from TribonacciSequence (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TribonacciSequence.CodewarsAssertions" end time: Mar 20 19:16 CDT
+"TribonacciSequence.CodewarsAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 20 19:16 CDT

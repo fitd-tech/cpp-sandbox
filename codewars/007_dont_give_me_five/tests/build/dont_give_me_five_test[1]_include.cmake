@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/dont_give_me_five/tests/build/dont_give_me_five_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/dont_give_me_five/tests/build/dont_give_me_five_test[1]_tests.cmake")
+else()
+  add_test(dont_give_me_five_test_NOT_BUILT dont_give_me_five_test_NOT_BUILT)
+endif()

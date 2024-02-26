@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/binary_addition/tests/build/binary_addition_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/binary_addition/tests/build/binary_addition_test[1]_tests.cmake")
+else()
+  add_test(binary_addition_test_NOT_BUILT binary_addition_test_NOT_BUILT)
+endif()

@@ -1,0 +1,2 @@
+IsValidWalk.CodewarsAssertions 1 0.00325825
+---

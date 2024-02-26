@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/counting_duplicates/tests/build/counting_duplicates_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/counting_duplicates/tests/build/counting_duplicates_test[1]_tests.cmake")
+else()
+  add_test(counting_duplicates_test_NOT_BUILT counting_duplicates_test_NOT_BUILT)
+endif()

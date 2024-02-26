@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/is_valid_walk/tests/build/is_valid_walk_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/is_valid_walk/tests/build/is_valid_walk_test[1]_tests.cmake")
+else()
+  add_test(is_valid_walk_test_NOT_BUILT is_valid_walk_test_NOT_BUILT)
+endif()

@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/testing_one_two/tests/build/testing_one_two_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/testing_one_two/tests/build/testing_one_two_test[1]_tests.cmake")
+else()
+  add_test(testing_one_two_test_NOT_BUILT testing_one_two_test_NOT_BUILT)
+endif()

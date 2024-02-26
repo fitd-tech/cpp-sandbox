@@ -1,0 +1,30 @@
+Start testing: Mar 19 10:37 CDT
+----------------------------------------------------------
+1/1 Testing: EqualSides.CodewarsAssertions
+1/1 Test: EqualSides.CodewarsAssertions
+Command: "/Users/anthonypelusocook/sandbox/cpp/codewars/012_equal_sides/tests/build/equal_sides_test" "--gtest_filter=EqualSides.CodewarsAssertions" "--gtest_also_run_disabled_tests"
+Directory: /Users/anthonypelusocook/sandbox/cpp/codewars/012_equal_sides/tests/build
+"EqualSides.CodewarsAssertions" start time: Mar 19 10:37 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/anthonypelusocook/sandbox/cpp/codewars/012_equal_sides/tests/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EqualSides.CodewarsAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EqualSides
+[ RUN      ] EqualSides.CodewarsAssertions
+[       OK ] EqualSides.CodewarsAssertions (0 ms)
+[----------] 1 test from EqualSides (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EqualSides.CodewarsAssertions" end time: Mar 19 10:37 CDT
+"EqualSides.CodewarsAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 19 10:37 CDT

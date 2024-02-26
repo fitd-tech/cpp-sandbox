@@ -1,0 +1,30 @@
+Start testing: Mar 18 22:10 CDT
+----------------------------------------------------------
+1/1 Testing: Sandbox.CodewarsAssertions
+1/1 Test: Sandbox.CodewarsAssertions
+Command: "/Users/anthonypelusocook/sandbox/cpp/sandbox/tests/build/sandbox_test" "--gtest_filter=Sandbox.CodewarsAssertions" "--gtest_also_run_disabled_tests"
+Directory: /Users/anthonypelusocook/sandbox/cpp/sandbox/tests/build
+"Sandbox.CodewarsAssertions" start time: Mar 18 22:10 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/anthonypelusocook/sandbox/cpp/sandbox/tests/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Sandbox.CodewarsAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Sandbox
+[ RUN      ] Sandbox.CodewarsAssertions
+[       OK ] Sandbox.CodewarsAssertions (0 ms)
+[----------] 1 test from Sandbox (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Sandbox.CodewarsAssertions" end time: Mar 18 22:10 CDT
+"Sandbox.CodewarsAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 18 22:10 CDT

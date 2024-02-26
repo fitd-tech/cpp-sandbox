@@ -1,0 +1,2 @@
+TestingOneTwo.CodewarsAssertions 1 0.00340637
+---

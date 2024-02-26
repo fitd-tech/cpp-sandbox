@@ -1,0 +1,30 @@
+Start testing: Mar 17 08:04 CDT
+----------------------------------------------------------
+1/1 Testing: TestingOneTwo.CodewarsAssertions
+1/1 Test: TestingOneTwo.CodewarsAssertions
+Command: "/Users/anthonypelusocook/sandbox/cpp/codewars/testing_one_two/tests/build/testing_one_two_test" "--gtest_filter=TestingOneTwo.CodewarsAssertions" "--gtest_also_run_disabled_tests"
+Directory: /Users/anthonypelusocook/sandbox/cpp/codewars/testing_one_two/tests/build
+"TestingOneTwo.CodewarsAssertions" start time: Mar 17 08:04 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/anthonypelusocook/sandbox/cpp/codewars/testing_one_two/tests/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TestingOneTwo.CodewarsAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TestingOneTwo
+[ RUN      ] TestingOneTwo.CodewarsAssertions
+[       OK ] TestingOneTwo.CodewarsAssertions (0 ms)
+[----------] 1 test from TestingOneTwo (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestingOneTwo.CodewarsAssertions" end time: Mar 17 08:04 CDT
+"TestingOneTwo.CodewarsAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 17 08:04 CDT

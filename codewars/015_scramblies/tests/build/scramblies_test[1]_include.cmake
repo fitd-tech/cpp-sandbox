@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/015_scramblies/tests/build/scramblies_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/015_scramblies/tests/build/scramblies_test[1]_tests.cmake")
+else()
+  add_test(scramblies_test_NOT_BUILT scramblies_test_NOT_BUILT)
+endif()

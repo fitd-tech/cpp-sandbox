@@ -1,0 +1,2 @@
+EqualSides.CodewarsAssertions 1 0.00345138
+---

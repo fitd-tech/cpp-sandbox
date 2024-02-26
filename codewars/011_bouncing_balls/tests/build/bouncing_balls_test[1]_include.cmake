@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/011_bouncing_balls/tests/build/bouncing_balls_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/011_bouncing_balls/tests/build/bouncing_balls_test[1]_tests.cmake")
+else()
+  add_test(bouncing_balls_test_NOT_BUILT bouncing_balls_test_NOT_BUILT)
+endif()

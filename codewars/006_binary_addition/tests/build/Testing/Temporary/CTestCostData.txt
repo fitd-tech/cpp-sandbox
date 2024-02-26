@@ -1,0 +1,3 @@
+BinaryAddition.CodewarsAssertions 0 0
+---
+BinaryAddition.CodewarsAssertions

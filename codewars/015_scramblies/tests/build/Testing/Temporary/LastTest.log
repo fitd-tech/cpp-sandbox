@@ -1,0 +1,30 @@
+Start testing: Mar 21 17:03 CDT
+----------------------------------------------------------
+1/1 Testing: Scramblies.CodewarsAssertions
+1/1 Test: Scramblies.CodewarsAssertions
+Command: "/Users/anthonypelusocook/sandbox/cpp/codewars/015_scramblies/tests/build/scramblies_test" "--gtest_filter=Scramblies.CodewarsAssertions" "--gtest_also_run_disabled_tests"
+Directory: /Users/anthonypelusocook/sandbox/cpp/codewars/015_scramblies/tests/build
+"Scramblies.CodewarsAssertions" start time: Mar 21 17:03 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/anthonypelusocook/sandbox/cpp/codewars/015_scramblies/tests/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Scramblies.CodewarsAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Scramblies
+[ RUN      ] Scramblies.CodewarsAssertions
+[       OK ] Scramblies.CodewarsAssertions (0 ms)
+[----------] 1 test from Scramblies (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Scramblies.CodewarsAssertions" end time: Mar 21 17:03 CDT
+"Scramblies.CodewarsAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 21 17:03 CDT

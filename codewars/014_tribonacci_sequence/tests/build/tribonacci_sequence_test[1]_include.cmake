@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/014_tribonacci_sequence/tests/build/tribonacci_sequence_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/014_tribonacci_sequence/tests/build/tribonacci_sequence_test[1]_tests.cmake")
+else()
+  add_test(tribonacci_sequence_test_NOT_BUILT tribonacci_sequence_test_NOT_BUILT)
+endif()

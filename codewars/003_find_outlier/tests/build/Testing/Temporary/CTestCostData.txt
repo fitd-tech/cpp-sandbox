@@ -1,0 +1,2 @@
+FindOutlier.CodewarsAssertions 1 0.00361513
+---

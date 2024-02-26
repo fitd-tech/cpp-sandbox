@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/number_of_people/tests/build/number_of_people_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/number_of_people/tests/build/number_of_people_test[1]_tests.cmake")
+else()
+  add_test(number_of_people_test_NOT_BUILT number_of_people_test_NOT_BUILT)
+endif()

@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/codewars/012_equal_sides/tests/build/equal_sides_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/codewars/012_equal_sides/tests/build/equal_sides_test[1]_tests.cmake")
+else()
+  add_test(equal_sides_test_NOT_BUILT equal_sides_test_NOT_BUILT)
+endif()

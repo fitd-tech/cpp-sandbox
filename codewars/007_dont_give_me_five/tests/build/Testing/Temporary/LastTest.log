@@ -1,0 +1,30 @@
+Start testing: Mar 18 02:17 CDT
+----------------------------------------------------------
+1/1 Testing: DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions
+1/1 Test: DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions
+Command: "/Users/anthonypelusocook/sandbox/cpp/codewars/dont_give_me_five/tests/build/dont_give_me_five_test" "--gtest_filter=DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions" "--gtest_also_run_disabled_tests"
+Directory: /Users/anthonypelusocook/sandbox/cpp/codewars/dont_give_me_five/tests/build
+"DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions" start time: Mar 18 02:17 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/anthonypelusocook/sandbox/cpp/codewars/dont_give_me_five/tests/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DontGiveMeFiv_CodewarsAssertions_Test
+[ RUN      ] DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions
+[       OK ] DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions (0 ms)
+[----------] 1 test from DontGiveMeFiv_CodewarsAssertions_Test (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions" end time: Mar 18 02:17 CDT
+"DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 18 02:17 CDT

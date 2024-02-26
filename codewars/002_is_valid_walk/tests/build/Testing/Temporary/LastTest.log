@@ -1,0 +1,30 @@
+Start testing: Mar 17 06:32 CDT
+----------------------------------------------------------
+1/1 Testing: IsValidWalk.CodewarsAssertions
+1/1 Test: IsValidWalk.CodewarsAssertions
+Command: "/Users/anthonypelusocook/sandbox/cpp/codewars/is_valid_walk/tests/build/is_valid_walk_test" "--gtest_filter=IsValidWalk.CodewarsAssertions" "--gtest_also_run_disabled_tests"
+Directory: /Users/anthonypelusocook/sandbox/cpp/codewars/is_valid_walk/tests/build
+"IsValidWalk.CodewarsAssertions" start time: Mar 17 06:32 CDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/anthonypelusocook/sandbox/cpp/codewars/is_valid_walk/tests/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = IsValidWalk.CodewarsAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IsValidWalk
+[ RUN      ] IsValidWalk.CodewarsAssertions
+[       OK ] IsValidWalk.CodewarsAssertions (0 ms)
+[----------] 1 test from IsValidWalk (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IsValidWalk.CodewarsAssertions" end time: Mar 17 06:32 CDT
+"IsValidWalk.CodewarsAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 17 06:32 CDT

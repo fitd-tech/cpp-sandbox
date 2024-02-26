@@ -1,0 +1,3 @@
+add_test([=[DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions]=]  /Users/anthonypelusocook/sandbox/cpp/codewars/dont_give_me_five/tests/build/dont_give_me_five_test [==[--gtest_filter=DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions]=]  PROPERTIES WORKING_DIRECTORY /Users/anthonypelusocook/sandbox/cpp/codewars/dont_give_me_five/tests/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  dont_give_me_five_test_TESTS DontGiveMeFiv_CodewarsAssertions_Test.CodewarsAssertions)

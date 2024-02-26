@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anthonypelusocook/sandbox/cpp/sandbox/tests/build/sandbox_test[1]_tests.cmake")
+  include("/Users/anthonypelusocook/sandbox/cpp/sandbox/tests/build/sandbox_test[1]_tests.cmake")
+else()
+  add_test(sandbox_test_NOT_BUILT sandbox_test_NOT_BUILT)
+endif()
